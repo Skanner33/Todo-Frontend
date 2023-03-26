@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Route, BrowserRouter, Routes } from "react-router-dom";
-// import Signup from "./Signup";
-import Login from "./Login";
+import Login from "./Auth";
 import Navbar from "./Navbar";
 import Home from "./Home";
 
